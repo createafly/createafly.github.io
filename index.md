@@ -7,8 +7,4 @@ Createafly is a commercial fly tying service based in Canberra. I pride myself i
 
 Browse my fly collections designed for specific fishing situations, order replacement flies to top up your collection or contact me for custom requirements.
 
-      <div class="blog-index">  
-  {% assign post = site.posts.first %}
-  {% assign content = post.content %}
-  {% include post_detail.html %}
-      </div>
+asdf
