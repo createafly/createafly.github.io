@@ -1,6 +1,6 @@
 ---
 title: New site, New Focus!
-layout: post
+layout: default
 ---
 
 Here is my page.
