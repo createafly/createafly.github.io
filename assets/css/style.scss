@@ -4,5 +4,6 @@
 @import "{{ site.theme }}";
 
 .page-header{
-  background: url('/assets/STORE-COVER-FLYS.jpg') #fff;
+  background: url('/assets/STORE-COVER-FLYS.jpg') center bottom #fff;
+  color: black;
 }
