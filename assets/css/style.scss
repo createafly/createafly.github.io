@@ -3,4 +3,6 @@
 
 @import "{{ site.theme }}";
 
-body{background-color:red;}
+.page-header{
+  background:url:('/assets/STORE-COVER-FLYS.jpg');
+}
